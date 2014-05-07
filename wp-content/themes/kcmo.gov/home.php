@@ -66,6 +66,8 @@ get_header();
 					<script type="text/javascript" src="//platform.twitter.com/widgets.js"></script>
 					
 					<?php dynamic_sidebar( 'home-twitter' ); ?>
+					
+					<?php include( 'parts/communityvideos.php' ); ?>
 				</div>
 			</div>
 			
