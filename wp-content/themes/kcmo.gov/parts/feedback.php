@@ -30,4 +30,5 @@
 			<br style="clear:both"/>
 		<?php endif; ?>
 	</form>
+	    This form is for KCMO.gov website purposes only. Contact <a href="http://kcmo.gov/311">311</a> for other City services questions/issues.
 </div>
