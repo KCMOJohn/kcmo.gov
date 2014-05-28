@@ -5,6 +5,7 @@
 		echo $google_calendar;
 	?>
 </div>
+<a href="http://kcmo.gov/calendar">View more events</a>
 
 <div class="search">
 	<h3>TOP SEARCHES</h3>
